@@ -1,4 +1,4 @@
-### Olaa!! Eu sou o Vitor, prazer em te ver por aqui. 👋
+### Olaa!! Eu sou o Vitor. 👋
 
 <div align="center">
   <a href="https://github.com/SaintVitor">
